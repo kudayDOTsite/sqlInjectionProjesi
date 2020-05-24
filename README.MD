@@ -7,8 +7,8 @@ Bu proje Sql Injection konusunda kendisini geliştirmek isteyenler için gelişt
 Bu proje Kali2020 dağıtımında test edilmiştir. Kali içerisinde apache ve mysql servisleri kurulu geldiğinden dolayı belirtilen bu servislerin kurulumundan burada bahsedilmeyecektir. İlk olarak projeyi indirin daha sonrasında `/var/www/html` klasörüne kopyalayın.
 
 ```bash
-git clone url
-sudo cp -r sqlinjection /var/www/html
+git clone https://github.com/kudayDOTsite/sqlInjectionProjesi.git
+sudo cp -r sqlInjectionProjesi/ /var/www/html
 ```
 Eğer mysql ve apache servisleriniz açık değilse bu servisleri başlatın.
 

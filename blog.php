@@ -6,7 +6,7 @@
 	?>
 		<div id="fh5co-main">
 			<div class="fh5co-narrow-content">
-				<h2 class="fh5co-heading animate-box" data-animate-effect="fadeInLeft">Read Our Blog</h2>
+				<h2 class="fh5co-heading animate-box" data-animate-effect="fadeInLeft"></h2>
 				<div class="row row-bottom-padded-md">
 
 				<?php

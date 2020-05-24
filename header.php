@@ -60,6 +60,7 @@
 					<li><a href="kopyaKagidi.php">Kopya</a></li>
 					<li><a href="test.php">Test</a></li>
 					<li><a href="about.php">Hakkımızda</a></li>
+					<li><a href="giris.php">Giriş</a></li>
 				</ul>
 			</nav>
 
