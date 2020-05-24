@@ -58,17 +58,18 @@
 					<li><a href="index.php">Ana Sayfa</a></li>
 					<li><a href="blog.php">Blog</a></li>
 					<li><a href="kopyaKagidi.php">Kopya</a></li>
-					<li><a href="about.html">Hakkımızda</a></li>
+					<li><a href="test.php">Test</a></li>
+					<li><a href="about.php">Hakkımızda</a></li>
 				</ul>
 			</nav>
 
 			<div class="fh5co-footer">
-				<p>Bişeyler	</p>
+				<p>Bu proje Sql Injection konusunda kendisini geliştirmek isteyenler için geliştirilmiştir. Eğitim amaçlı izinsiz bir şekilde kullanılabilir.	</p>
 				<ul>
-					<li><a href="#"><i class="icon-facebook2"></i></a></li>
-					<li><a href="#"><i class="icon-twitter2"></i></a></li>
-					<li><a href="#"><i class="icon-instagram"></i></a></li>
-					<li><a href="#"><i class="icon-linkedin2"></i></a></li>
+					<li><a href="#YOK"><i class="icon-facebook2"></i></a></li>
+					<li><a href="#YOK"><i class="icon-twitter2"></i></a></li>
+					<li><a href="#YOK"><i class="icon-instagram"></i></a></li>
+					<li><a href="https://www.linkedin.com/in/beren-kuday-g-161a6886/"><i class="icon-linkedin2"></i></a></li>
 				</ul>
 			</div>
 

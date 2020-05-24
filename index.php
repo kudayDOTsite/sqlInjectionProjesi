@@ -40,9 +40,23 @@
 				   			<div class="row">
 					   			<div class="col-md-8 col-md-offset-2 text-center js-fullheight slider-text">
 					   				<div class="slider-text-inner">
-					   					<h1>Download our Free HTML5 Bootstrap Template</h1>
-											<h2>Free html5 templates Made by <a href="http://freehtml5.co/" target="_blank">freehtml5.co</a></h2>
-											<p><a class="btn btn-primary btn-demo popup-vimeo" href="https://vimeo.com/channels/staffpicks/93951774"> <i class="icon-monitor"></i> Live Preview</a> <a class="btn btn-primary btn-learn">Learn More<i class="icon-arrow-right3"></i></a></p>
+					   					<h1>Error Based SQLi</h1>
+											<h2>Error Based SQLi tabanlı saldırıları hata mesajlarındaki sorgu sonuçlarından yararlanmak amaçlı kullanılır.</h2>
+											
+					   				</div>
+					   			</div>
+					   		</div>
+				   		</div>
+					   </li>
+					   <li style="background-image: url(images/img_bg_2.jpg);">
+				   		<div class="overlay"></div>
+				   		<div class="container-fluid">
+				   			<div class="row">
+					   			<div class="col-md-8 col-md-offset-2 text-center js-fullheight slider-text">
+					   				<div class="slider-text-inner">
+					   					<h1>Blind Injection</h1>
+											<h2>Blind Injection tabanlı saldırılar HTTP yanıtındaki farklı HTTP durum kodları, yanıt süreleri, HTML sayfasının uzunluğu ve HTML içerikleriyle belirlenebilir.</h2>
+											
 					   				</div>
 					   			</div>
 					   		</div>

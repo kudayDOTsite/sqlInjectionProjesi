@@ -42,7 +42,9 @@
         }
     } 
     else {
-        //echo "Bir Hata var!";
+        if($id != 3){
+            echo $conn -> error;
+        }
     }
     $conn->close();
 
