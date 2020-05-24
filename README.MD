@@ -108,6 +108,12 @@ INSERT INTO User (ID, Isim, KullaniciAdi, Sifre) VALUES (2, 'Beren', 'admin','pa
 Artık eğitime hazırız!
 Projeyi tarayıcıdan başlatın ve test sayfasına ilerleyiniz. Eğer bir hata almadıysanız eğitime başlayınız. Hata alıyorsanız yapmış olduğunuz işlemleri kontrol ediniz.
 
+##Projenin Ekran Görüntüleri
+<img src="" style="width:100%;">
+<img src="" style="width:100%;">
+<img src="" style="width:100%;">
+
+
 ##Geliştirici notları
 1. first commit!
 2. test sayfası eklendi.
