@@ -108,12 +108,12 @@ INSERT INTO User (ID, Isim, KullaniciAdi, Sifre) VALUES (2, 'Beren', 'admin','pa
 Artık eğitime hazırız!
 Projeyi tarayıcıdan başlatın ve test sayfasına ilerleyiniz. Eğer bir hata almadıysanız eğitime başlayınız. Hata alıyorsanız yapmış olduğunuz işlemleri kontrol ediniz.
 
-##Projenin Ekran Görüntüleri
-<img src="" style="width:100%;">
-<img src="" style="width:100%;">
-<img src="" style="width:100%;">
+## Projenin Ekran Görüntüleri
+<img src="https://raw.githubusercontent.com/kudayDOTsite/sqlInjectionProjesi/master/images/resim1.png" style="width:100%;">
+<img src="https://raw.githubusercontent.com/kudayDOTsite/sqlInjectionProjesi/master/images/resim2.png" style="width:100%;">
+<img src="https://raw.githubusercontent.com/kudayDOTsite/sqlInjectionProjesi/master/images/resim3.png" style="width:100%;">
 
 
-##Geliştirici notları
+## Geliştirici notları
 1. first commit!
 2. test sayfası eklendi.
