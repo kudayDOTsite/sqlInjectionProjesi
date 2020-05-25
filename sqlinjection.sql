@@ -22,3 +22,26 @@ INSERT INTO Blog (ID, Baslik, Ozet, Aciklama, Referans, Resim, Url) VALUES (2, '
 INSERT INTO Blog (ID, Baslik, Ozet, Aciklama, Referans, Resim, Url) VALUES (3, 'Blind Injection', 'Blind Injection tabanlı saldırılar HTTP yanıtındaki farklı HTTP durum kodları, yanıt süreleri, HTML sayfasının uzunluğu ve HTML içerikleriyle belirlenebilir.','<p>Blind Injection tabanlı saldırılar HTTP yanıtındaki farklı HTTP durum kodları, yanıt süreleri, HTML sayfasının uzunluğu ve HTML içerikleriyle belirlenebilir.</p><table class="table table-striped table-hover"><thead><tr><th>Description</th><th align="left">Query</th></tr></thead><tbody><tr><td>User is root</td><td>SELECT IF(user() LIKE "root@%", SLEEP(5), null)</td></tr><hr></tbody></table>', '<p>https://sqlwiki.netspi.com/injectionTypes/blindBased/#mysql</p></br>', 'images/img-3.jpg', 'blindsqli.php'); 
 INSERT INTO User (ID, Isim, KullaniciAdi, Sifre) VALUES (1, 'Kuday', 'kuday','sarikamyon');
 INSERT INTO User (ID, Isim, KullaniciAdi, Sifre) VALUES (2, 'Beren', 'admin','password123');
+CREATE TABLE TEST (
+id INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+firstname VARCHAR(30) NOT NULL,
+lastname VARCHAR(30) NOT NULL,
+email VARCHAR(50)
+) ;
+INSERT INTO TEST (id, firstname, lastname, email)
+VALUES (1, "beren", "gorun", "test@mail.com");
+INSERT INTO TEST (id, firstname, lastname, email)
+VALUES (2, "ahmet", "kaya", "ahmet@mail.com");
+INSERT INTO TEST (id, firstname, lastname, email)
+VALUES (3, "beril", "ozer", "beril@mail.com");
+INSERT INTO TEST (id, firstname, lastname, email)
+VALUES (4, "kenan", "soylu", "kenan@mail.com");
+INSERT INTO TEST (id, firstname, lastname, email)
+VALUES (5, "sinan", "soylu", "sinan@mail.com");
+INSERT INTO TEST (id, firstname, lastname, email)
+VALUES (6, "cuneyt", "oz", "cuneyt@mail.com");
+INSERT INTO TEST (id, firstname, lastname, email)
+VALUES (7, "fatih", "secen", "fatih@mail.com");
+INSERT INTO TEST (id, firstname, lastname, email)
+VALUES (8, "derya", "ordulu", "derya@mail.com");
+
